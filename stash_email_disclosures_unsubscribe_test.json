@@ -1,5 +1,5 @@
 {
     
-    "non_transactional_footer": "© {{ "now" | date: "%Y" }} StashInvest · 500 7th Ave · New York, NY 10018<br /><a href=\"test\" target=\"_blank\" style=\"color:#9983c1; text-decoration:underline;\">unsubscribe</a> | <a href=\"stashinvest.com\" target=\"_blank\" style=\"color:#9983c1; text-decoration:none;\">stashinvest.com</a>."
+    "non_transactional_footer": "© {{ "now" | date: "%Y" }} StashInvest · 500 7th Ave · New York, NY 10018<br /><a href=\"test\" target=\"_blank\" style=\"color:#9983c1; text-decoration:underline;\">unsubscribe</a> | <a href=\"https://www.stashinvest.com\" target=\"_blank\" style=\"color:#9983c1; text-decoration:none;\">stashinvest.com</a>."
 
 }
